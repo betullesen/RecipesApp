@@ -22,10 +22,7 @@ The Purpose of Use is to show messages to the user for permission requests or sh
 The purpose of use is to pass recipe data between fragments and activities.
 
 ## App Gif
-
 ![YemekTarifleriAppTarifFragment ktYemekTarifleriApp app main2024-11-1913-48-00-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4b742185-f256-4c41-8f0c-745dd1904ccf)
-![YemekTarifleriAppTarifFragment ktYemekTarifleriApp app main2024-11-1913-48-00-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/9455bb8b-3195-41c3-9ea9-2576b9a0ee2e)
-
 
 ## App Images
 ![screen1](https://github.com/user-attachments/assets/2807fabc-6586-4d3f-a34e-8f40f704889d)
