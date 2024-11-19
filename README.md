@@ -28,6 +28,8 @@ The purpose of use is to pass recipe data between fragments and activities.
 
 
 ## App Images
+![screen1](https://github.com/user-attachments/assets/2807fabc-6586-4d3f-a34e-8f40f704889d)
+![screen2](https://github.com/user-attachments/assets/eaabe1a4-723b-4cbf-9b17-8b2269c09029)
 
 
 
