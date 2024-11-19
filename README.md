@@ -23,4 +23,7 @@ The purpose of use is to pass recipe data between fragments and activities.
 
 ## App Gif
 
+![yemekTarifleriApp](https://github.com/user-attachments/assets/254898b5-0e7b-4f6a-b980-014babf5f8c3)
+
+
 
