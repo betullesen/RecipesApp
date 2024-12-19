@@ -1,8 +1,9 @@
 # RECİPES APP
+------------
 The app lets users view, add, update, and delete recipes. It also supports image selection and stores images using the Room database.
 
 ## Libraries and Tools Used:
-
+---------------------
 - **Room Database:** 
 This local data storage solution enables data management in Android applications. It is an ideal solution for storing and managing data, such as recipes. Especially when the device is offline, it allows users to access the data by caching relevant pieces of information.
 
@@ -22,9 +23,11 @@ The Purpose of Use is to show messages to the user for permission requests or sh
 The purpose of use is to pass recipe data between fragments and activities.
 
 ## App Gif
+
 ![YemekTarifleriAppTarifFragment ktYemekTarifleriApp app main2024-11-1913-48-00-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4b742185-f256-4c41-8f0c-745dd1904ccf)
 
 ## App Images
+
 ![screen1](https://github.com/user-attachments/assets/2807fabc-6586-4d3f-a34e-8f40f704889d)
 ![screen2](https://github.com/user-attachments/assets/eaabe1a4-723b-4cbf-9b17-8b2269c09029)
 
